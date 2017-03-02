@@ -1,0 +1,6 @@
+15:55:00 **** Incremental Build of configuration Debug for project periph_i2c_probe_COPY ****
+make -r all 
+make: Nothing to be done for `all'.
+
+15:55:00 Build Finished (took 138ms)
+

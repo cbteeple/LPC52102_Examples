@@ -1,0 +1,6 @@
+11:30:04 **** Incremental Build of configuration Debug for project periph_i2cm_interrupt ****
+make -r all 
+make: Nothing to be done for `all'.
+
+11:30:04 Build Finished (took 144ms)
+

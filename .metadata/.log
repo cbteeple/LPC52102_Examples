@@ -1,0 +1,805 @@
+!SESSION 2017-01-27 16:41:49.384 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2017-01-27 16:43:10.607
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-01-27 16:43:10.610
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:27.742
+!MESSAGE Indexed 'freertos' (0 sources, 19 headers) in 0.496 sec: 686 declarations; 573 references; 1 unresolved inclusions; 99 syntax errors; 1 unresolved names (0.079%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:28.865
+!MESSAGE Indexed 'freertos_blinky' (12 sources, 69 headers) in 1.1 sec: 5,234 declarations; 10,748 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:29.441
+!MESSAGE Indexed 'lpc_board_lpcxpresso_54102' (2 sources, 84 headers) in 0.564 sec: 4,819 declarations; 8,213 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:29.880
+!MESSAGE Indexed 'lpc_board_lpcxpresso_54102_m0' (2 sources, 83 headers) in 0.428 sec: 4,369 declarations; 7,396 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:30.519
+!MESSAGE Indexed 'lpc_chip_5410x' (29 sources, 54 headers) in 0.637 sec: 4,670 declarations; 9,712 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:31.093
+!MESSAGE Indexed 'lpc_chip_5410x_m0' (29 sources, 53 headers) in 0.571 sec: 4,211 declarations; 8,869 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:31.399
+!MESSAGE Indexed 'multicore_m0slave_blinky' (4 sources, 52 headers) in 0.304 sec: 3,608 declarations; 5,217 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:31.777
+!MESSAGE Indexed 'multicore_m4master_blinky' (4 sources, 54 headers) in 0.377 sec: 4,194 declarations; 6,145 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:32.188
+!MESSAGE Indexed 'periph_adc' (4 sources, 53 headers) in 0.41 sec: 4,104 declarations; 6,221 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:32.598
+!MESSAGE Indexed 'periph_blinky' (4 sources, 53 headers) in 0.409 sec: 4,092 declarations; 6,047 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:32.953
+!MESSAGE Indexed 'periph_bod' (4 sources, 53 headers) in 0.353 sec: 4,092 declarations; 6,065 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:33.322
+!MESSAGE Indexed 'periph_clkout' (4 sources, 53 headers) in 0.368 sec: 4,096 declarations; 6,087 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:33.676
+!MESSAGE Indexed 'periph_crc' (4 sources, 53 headers) in 0.353 sec: 4,099 declarations; 6,092 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:34.064
+!MESSAGE Indexed 'periph_dma' (4 sources, 55 headers) in 0.387 sec: 4,292 declarations; 6,327 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:34.434
+!MESSAGE Indexed 'periph_flashiap' (4 sources, 53 headers) in 0.369 sec: 4,096 declarations; 6,108 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:34.818
+!MESSAGE Indexed 'periph_freqmeasure' (4 sources, 53 headers) in 0.383 sec: 4,097 declarations; 6,086 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:35.193
+!MESSAGE Indexed 'periph_gint' (4 sources, 53 headers) in 0.373 sec: 4,092 declarations; 6,117 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:35.628
+!MESSAGE Indexed 'periph_i2c_probe' (4 sources, 55 headers) in 0.433 sec: 4,321 declarations; 6,501 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:35.973
+!MESSAGE Indexed 'periph_i2cm_interrupt' (4 sources, 53 headers) in 0.344 sec: 4,112 declarations; 6,223 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:36.348
+!MESSAGE Indexed 'periph_i2cs_interrupt' (4 sources, 53 headers) in 0.373 sec: 4,154 declarations; 6,468 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:36.769
+!MESSAGE Indexed 'periph_i2cs_interrupt_dma' (4 sources, 54 headers) in 0.42 sec: 4,219 declarations; 6,476 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:37.348
+!MESSAGE Indexed 'periph_mrt' (4 sources, 53 headers) in 0.577 sec: 4,104 declarations; 6,113 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:37.700
+!MESSAGE Indexed 'periph_pinint' (4 sources, 53 headers) in 0.351 sec: 4,093 declarations; 6,130 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:38.074
+!MESSAGE Indexed 'periph_pllfract' (4 sources, 53 headers) in 0.372 sec: 4,112 declarations; 6,301 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:38.439
+!MESSAGE Indexed 'periph_pmu' (4 sources, 53 headers) in 0.364 sec: 4,103 declarations; 6,197 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:38.790
+!MESSAGE Indexed 'periph_ritimer' (4 sources, 53 headers) in 0.349 sec: 4,093 declarations; 6,076 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:39.178
+!MESSAGE Indexed 'periph_rtc' (4 sources, 55 headers) in 0.388 sec: 4,286 declarations; 6,244 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:39.635
+!MESSAGE Indexed 'periph_rtcut' (4 sources, 57 headers) in 0.455 sec: 4,326 declarations; 6,274 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:40.068
+!MESSAGE Indexed 'periph_sct' (4 sources, 53 headers) in 0.431 sec: 4,095 declarations; 6,104 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:40.660
+!MESSAGE Indexed 'periph_sct_pwm' (4 sources, 53 headers) in 0.59 sec: 4,100 declarations; 6,159 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:41.036
+!MESSAGE Indexed 'periph_spi_sm_int' (4 sources, 54 headers) in 0.374 sec: 4,159 declarations; 6,485 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:41.448
+!MESSAGE Indexed 'periph_spis_dma' (4 sources, 53 headers) in 0.411 sec: 4,113 declarations; 6,407 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:41.923
+!MESSAGE Indexed 'periph_timer' (4 sources, 53 headers) in 0.473 sec: 4,095 declarations; 6,136 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:42.274
+!MESSAGE Indexed 'periph_uart_rb' (4 sources, 54 headers) in 0.35 sec: 4,182 declarations; 6,230 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:42.649
+!MESSAGE Indexed 'periph_utick' (4 sources, 55 headers) in 0.373 sec: 4,281 declarations; 6,136 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 16:44:43.027
+!MESSAGE Indexed 'periph_wwdt' (4 sources, 53 headers) in 0.377 sec: 4,095 declarations; 6,143 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-27 16:48:35.768
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@f60230): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-27 16:48:35.768
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-01-27 16:48:37.215
+!MESSAGE 15: Target error from Read Memory: Ee(FF). Redlink interface error 255.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-27 16:48:37.215
+!MESSAGE 15: Target error from Read Memory: Ee(FF). Redlink interface error 255.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-27 16:54:03.908
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@1dd5513): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-27 16:54:03.908
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-27 17:24:53.374
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@12274f4): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-27 17:24:53.374
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-01-27 17:24:54.942
+!MESSAGE 15: Target error from Read Memory: Ee(FF). Redlink interface error 255.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-27 17:24:54.942
+!MESSAGE 15: Target error from Read Memory: Ee(FF). Redlink interface error 255.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-27 17:30:05.771
+!MESSAGE Indexed 'periph_i2c_probe_COPY' (4 sources, 55 headers) in 0.674 sec: 4,321 declarations; 6,502 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-28 17:10:54.758
+!MESSAGE Indexed 'periph_blinky_GeneralGPIO' (4 sources, 53 headers) in 0.771 sec: 4,092 declarations; 6,047 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-01-28 17:28:42.669
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 17:28:42.669
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 17:28:42.669
+!MESSAGE Hardware Transfer Error
+
+!ENTRY com.crt.dsfdebug 4 0 2017-01-28 17:33:51.193
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 17:33:51.194
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-01-28 18:48:09.816
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 18:48:09.816
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 18:48:09.816
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 18:48:09.816
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-01-28 18:50:39.769
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 18:50:39.769
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 18:50:39.769
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-01-28 18:50:39.769
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-28 18:51:47.838
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@1aec5f6): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-28 18:51:47.838
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-28 18:52:38.594
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@1f400b8): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-28 18:52:38.594
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 2 0 2017-01-28 19:29:24.107
+!MESSAGE Termi&nate/Disconnect All is not enabled.
+
+To terminate debug sessions, first select a debug session in the Debug View and then select Terminate again.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-28 19:50:17.670
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@33b957): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-28 19:50:17.670
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-01-28 19:56:12.715
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@cfd3c9): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-01-28 19:56:12.715
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+!SESSION 2017-01-30 12:13:29.447 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2017-01-30 12:13:40.482
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-01-30 12:13:40.485
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY com.crt.dsfdebug 2 0 2017-01-30 14:56:58.871
+!MESSAGE Termi&nate/Disconnect All is not enabled.
+
+To terminate debug sessions, first select a debug session in the Debug View and then select Terminate again.
+!SESSION 2017-02-04 15:50:32.264 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2017-02-04 15:50:43.048
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-02-04 15:50:43.051
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 15:54:48.384
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@bd8232): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 15:54:48.384
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-04 15:54:48.589
+!MESSAGE 15: Target error from Register access: Ee(FF). Redlink interface error 255.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 15:54:48.589
+!MESSAGE 15: Target error from Register access: Ee(FF). Redlink interface error 255.
+
+!ENTRY com.crt.dsfdebug 2 0 2017-02-04 15:59:13.618
+!MESSAGE Termi&nate/Disconnect All is not enabled.
+
+To terminate debug sessions, first select a debug session in the Debug View and then select Terminate again.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-02-04 16:04:14.144
+!MESSAGE Indexed 'Testing_GPIO' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2017-02-04 16:07:07.525
+!MESSAGE Error in final launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+-target-download
+Error message from debugger back end:
+Error finishing flash operation
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:111)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:235)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:109)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:97)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.lang.Exception: Error finishing flash operation
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:927)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:756)
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2017-02-04 16:07:07.526
+!MESSAGE Failed to execute MI command:
+-target-download
+Error message from debugger back end:
+Error finishing flash operation
+!STACK 0
+java.lang.Exception: Error finishing flash operation
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:927)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:756)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-04 16:07:08.046
+!MESSAGE 15: Target error from Commit Flash write: Ef(34): Timed-out initializing flash.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 16:07:08.046
+!MESSAGE 15: Target error from Commit Flash write: Ef(34): Timed-out initializing flash.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-04 16:50:08.296
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 16:50:08.296
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 16:50:08.296
+!MESSAGE Hardware Transfer Error
+
+!ENTRY com.crt.etmetb 1 0 2017-02-04 16:50:18.282
+!MESSAGE Exception when reading from client
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient.fillArrayFromSocket(RedlinkClient.java:196)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:147)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 16:50:18.283
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@101da28): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.io.IOException: Client unable to receive full packet from server' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 16:50:18.283
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.io.IOException: Client unable to receive full packet from server
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 17:11:25.414
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@307b21): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 17:11:25.414
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 17:58:23.370
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@30c846): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 17:58:23.370
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-04 18:04:48.364
+!MESSAGE 16: Target error from status-poll: Ee(FF). Redlink interface error 255.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 18:04:48.364
+!MESSAGE 16: Target error from status-poll: Ee(FF). Redlink interface error 255.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-04 18:12:40.973
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 18:12:40.973
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 18:12:40.973
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-04 18:12:40.973
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 18:17:49.305
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@fab456): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 18:17:49.306
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 18:18:31.394
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@133d551): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 18:18:31.394
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-02-04 18:21:59.648
+!MESSAGE Indexed 'periph_ADC_and_GPIO' (4 sources, 53 headers) in 1.12 sec: 4,104 declarations; 6,196 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 18:22:27.458
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@b6444e): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 18:22:27.458
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 18:53:43.208
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@1b9fa5e): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 18:53:43.208
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 18:54:54.978
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@1aa0db2): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 18:54:54.978
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-04 19:06:41.740
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@57c9bb): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-04 19:06:41.740
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+!SESSION 2017-02-16 11:47:05.018 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2017-02-16 11:47:23.363
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-02-16 11:47:23.369
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-16 12:55:56.704
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 12:55:56.704
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 12:55:56.704
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 12:55:56.704
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-16 13:00:29.174
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 13:00:29.174
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-16 13:23:07.028
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 13:23:07.028
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 13:23:07.028
+!MESSAGE Hardware Transfer Error
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-16 17:58:20.637
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.ImmediateDataRequestMonitor@695378): Status ERROR: org.eclipse.cdt.dsf.gdb code=10004 Interrupt failed. null' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2017-02-16 17:58:20.637
+!MESSAGE Interrupt failed.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-16 18:13:29.004
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 18:13:29.004
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 18:13:29.004
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 18:13:29.004
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-16 19:26:29.165
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 19:26:29.165
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-16 19:26:29.165
+!MESSAGE Hardware Transfer Error
+!SESSION 2017-02-16 21:08:22.231 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2017-02-16 21:08:37.633
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-02-16 21:08:37.638
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-02-16 21:56:31.176
+!MESSAGE Indexed 'periph_blinky_GeneralGPIO_RAW' (4 sources, 53 headers) in 1.59 sec: 4,103 declarations; 6,127 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-02-16 22:56:10.693
+!MESSAGE Indexed 'periph_ADC_and_GPIO_V2' (4 sources, 53 headers) in 0.882 sec: 4,112 declarations; 6,249 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-16 23:29:49.180
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@9699ec): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-16 23:29:49.180
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.etmetb 1 0 2017-02-16 23:55:11.137
+!MESSAGE Exception when reading from client
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient.fillArrayFromSocket(RedlinkClient.java:196)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:147)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-16 23:55:11.139
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@a656e2): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.io.IOException: Client unable to receive full packet from server' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-16 23:55:11.139
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.io.IOException: Client unable to receive full packet from server
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-17 13:55:35.815
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 13:55:35.815
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 13:55:35.815
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 13:55:35.815
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-17 14:34:13.241
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:34:13.241
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:34:13.241
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:34:13.241
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-17 14:39:29.476
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:39:29.476
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:39:29.476
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:39:29.476
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-17 14:44:25.883
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:44:25.883
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:44:25.884
+!MESSAGE Hardware Transfer Error
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 14:44:25.884
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-17 15:24:00.807
+!MESSAGE 16: Target error from status-poll: Ee(FF). Redlink interface error 255.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 15:24:00.807
+!MESSAGE 16: Target error from status-poll: Ee(FF). Redlink interface error 255.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-02-17 15:48:55.032
+!MESSAGE Request for monitor: 'RequestMonitor (com.crt.etmetb.redlink.RedlinkClient$3@1ed2093): Status ERROR: com.crt.etmetb code=0 Problem obtaining SWO buffer content. java.net.SocketException: Connection reset by peer: socket write error' resulted in an error.
+!SUBENTRY 1 com.crt.etmetb 4 0 2017-02-17 15:48:55.032
+!MESSAGE Problem obtaining SWO buffer content.
+!STACK 0
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:109)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:141)
+	at com.crt.etmetb.redlink.RedlinkClient$2.run(RedlinkClient.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-17 15:49:28.091
+!MESSAGE 16: Target error from status-poll: Ee(FF). Redlink interface error 255.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-17 15:49:28.091
+!MESSAGE 16: Target error from status-poll: Ee(FF). Redlink interface error 255.
+!SESSION 2017-02-22 11:33:22.180 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2017-02-22 11:33:32.782
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-02-22 11:33:32.785
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY com.crt.dsfdebug 4 0 2017-02-22 13:23:20.629
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-22 13:23:20.629
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-02-22 13:23:20.630
+!MESSAGE Hardware Transfer Error
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-02-22 13:25:16.951
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2017-03-01 10:50:08.137 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-01 10:52:03.761
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 4 4 2017-03-01 10:52:08.715
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-03-01 10:52:08.718
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY com.crt.dsfdebug 4 0 2017-03-01 11:12:06.719
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-03-01 11:12:06.719
+!MESSAGE 16: Target error from status-poll
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-03-01 11:12:06.719
+!MESSAGE Hardware Transfer Error
+
+!ENTRY com.crt.dsfdebug 4 0 2017-03-01 11:13:21.488
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-03-01 11:13:21.488
+!MESSAGE 16: Target error from status-poll: Ee(A5). Redlink interface error 165.
+
+!ENTRY com.crt.dsfdebug 4 0 2017-03-01 11:46:20.918
+!MESSAGE 15: Target error from Register access
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-03-01 11:46:20.918
+!MESSAGE 15: Target error from Register access
+!SUBENTRY 1 com.crt.dsfdebug 4 0 2017-03-01 11:46:20.918
+!MESSAGE Hardware Transfer Error
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-01 11:50:29.788
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2017-03-02 17:49:00.831 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-02 17:49:29.858
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 4 4 2017-03-02 17:49:35.273
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2017-03-02 17:49:35.276
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator

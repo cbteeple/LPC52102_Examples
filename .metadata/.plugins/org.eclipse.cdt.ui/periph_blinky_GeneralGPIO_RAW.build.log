@@ -1,0 +1,6 @@
+10:55:56 **** Incremental Build of configuration Debug for project periph_blinky_GeneralGPIO_RAW ****
+make -r all 
+make: Nothing to be done for `all'.
+
+10:55:56 Build Finished (took 140ms)
+

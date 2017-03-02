@@ -1,0 +1,7 @@
+12:38:18 **** Clean-only build of configuration Debug for project freertos_blinky ****
+make -r clean 
+rm -rf  ./src/FreeRTOSCommonHooks.o ./src/blinky.o ./src/cr_startup_lpc5410x.o ./src/croutine.o ./src/crp.o ./src/heap_3.o ./src/list.o ./src/port.o ./src/queue.o ./src/sysinit.o ./src/tasks.o ./src/timers.o  ./src/FreeRTOSCommonHooks.d ./src/blinky.d ./src/cr_startup_lpc5410x.d ./src/croutine.d ./src/crp.d ./src/heap_3.d ./src/list.d ./src/port.d ./src/queue.d ./src/sysinit.d ./src/tasks.d ./src/timers.d  freertos_blinky.axf
+ 
+
+12:38:19 Build Finished (took 401ms)
+

@@ -1,0 +1,6 @@
+11:20:19 **** Incremental Build of configuration Debug for project periph_ADC_and_GPIO ****
+make -r all 
+make: Nothing to be done for `all'.
+
+11:20:19 Build Finished (took 141ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;periph_blinky_GeneralGPIO_RAW/src/blinky.c&apos; to &apos;blinkyGPIORAW.c&apos;" description="Rename resource &apos;blinky.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/blinky.c" name="blinkyGPIORAW.c" stamp="1487300295908" updateReferences="true"/>
+</session>

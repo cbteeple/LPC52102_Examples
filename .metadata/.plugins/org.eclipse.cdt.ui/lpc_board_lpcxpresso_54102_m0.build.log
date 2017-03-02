@@ -1,0 +1,6 @@
+12:38:16 **** Build of configuration Debug for project lpc_board_lpcxpresso_54102_m0 ****
+make -r all 
+make: Nothing to be done for `all'.
+
+12:38:16 Build Finished (took 468ms)
+

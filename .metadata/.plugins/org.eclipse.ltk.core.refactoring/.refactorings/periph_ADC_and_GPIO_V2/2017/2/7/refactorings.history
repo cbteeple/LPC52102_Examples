@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;periph_ADC_and_GPIO_V2/src/adc.c&apos; to &apos;adc_V2.c&apos;" description="Rename resource &apos;adc.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/adc.c" name="adc_V2.c" stamp="1487303800812" updateReferences="true"/>
+</session>
